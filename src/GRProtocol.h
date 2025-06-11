@@ -27,7 +27,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 	#include <wx/wx.h>
 #endif
 
-#define SERVER_HOSTNAME "master.gameranger.com"
+#define SERVER_HOSTNAME "connect.gameranger.com"
 #define SERVER_PORT 16000
 #define OFFLINE 0
 //================================================
